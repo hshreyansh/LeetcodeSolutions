@@ -20,6 +20,7 @@ void createMap(string &str)
     vector<string> findAndReplacePattern(vector<string>& words, string pattern) {
         vector<string>ans;
         createMap(pattern);
+        
         for(string s:words){
             string temp=s;
             createMap(temp);
