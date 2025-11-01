@@ -8,20 +8,29 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
+
+class Solution 
+{
 public:
-    ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        unordered_set<int> mpp(nums.begin(), nums.end());
-        while(head && mpp.count(head->val)){
-            head=head->next;
-        }
-        ListNode* temp =head;
-        while(temp && temp->next){
-            while(temp->next && mpp.count(temp->next->val)){
-                temp->next = temp->next->next;
+    ListNode* modifiedList(std::vector<int>& nums, ListNode* head) 
+    {
+        unordered_set<int> numSet(nums.begin(), nums.end());
+
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
+
+        ListNode* curr = dummy;
+        while (curr->next) 
+        {
+            if (numSet.count(curr->next->val)) 
+            {
+                curr->next = curr->next->next;
+            } 
+            else 
+            {
+                curr = curr->next;
             }
-            temp= temp->next;
         }
-        return head; 
+        return dummy->next;
     }
 };
