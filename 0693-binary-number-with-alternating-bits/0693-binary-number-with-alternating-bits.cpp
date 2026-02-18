@@ -1,15 +1,7 @@
 class Solution {
 public:
     bool hasAlternatingBits(int n) {
-        int currBit = n % 2;
-        n /= 2;
-        
-        while (n > 0) {
-            if (currBit == n % 2) 
-                return false;
-            currBit = n % 2;
-            n /= 2;
-        }
-        return true;
+        int result = n^ (n>>1);
+        return (result & result+1)==0;
     }
 };
