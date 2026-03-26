@@ -7,6 +7,7 @@
 | [0152-maximum-product-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0493-reverse-pairs](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0493-reverse-pairs/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3861-minimum-capacity-box](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@
 | ------- | ------- |
 | [0476-number-complement](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +62,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0127-word-ladder/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 <!---LeetCode Topics End-->
