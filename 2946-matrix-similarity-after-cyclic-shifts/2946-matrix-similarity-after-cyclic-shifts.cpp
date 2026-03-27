@@ -1,12 +1,12 @@
 class Solution {
 public:
     bool areSimilar(vector<vector<int>>& mat, int k) {
-        for(auto &i: mat){
-            int n = i.size();
-            for(int j=0; j<n; j++){
-                if(i[j] != i[(j+k)%n]){
-                    return false;
-                }                    
+        int n = mat.size();
+        int m = mat[0].size();
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                int idx = (j+k)%m;
+                if(mat[i][j] != mat[i][idx]) return false;
             }
         }
         return true;
