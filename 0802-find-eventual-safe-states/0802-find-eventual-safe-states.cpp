@@ -1,34 +1,42 @@
 class Solution {
 public:
-    bool isCycleDFS(vector<vector<int>>& adj, int u, vector<bool>& visited, vector<bool>& inRecursion) {
-        visited[u] = true;
-        inRecursion[u] = true;
-        
-        for(int &v : adj[u]) {
-            if(visited[v] == false && isCycleDFS(adj, v, visited, inRecursion))
-                return true;
-            else if(inRecursion[v] == true)
-                return true;
-        }
-        
-        inRecursion[u] = false;
-        return false;
-        
-    }
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        int V = graph.size();
-        vector<bool> visited(V, false);
-        vector<bool> inRecursion(V, false);
-        
-        for(int i = 0; i<V; i++) {
-            if(!visited[i]) isCycleDFS(graph, i, visited, inRecursion);
+        int V= graph.size();
+        vector<vector<int>> adj(V);
+
+        queue<int>q;
+        vector<int>indegree(V, 0);
+
+        for(int u=0; u<V; u++){
+            for(int &v: graph[u]){
+                adj[v].push_back(u);
+                indegree[u]++;
+            }
         }
-        
-        vector<int> safeNodes;
-        for(int i = 0; i<V; i++) {
-            if(!inRecursion[i]) safeNodes.push_back(i);
+        for(int i=0; i<V; i++){
+            if(indegree[i]==0){
+                q.push(i);
+            }
         }
-        
+        vector<bool>safe(V, false);
+
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            safe[node]= true;
+            for(int &v: adj[node]){
+                indegree[v]--;
+                if(indegree[v]==0){
+                    q.push(v);
+                }
+            }
+        }
+        vector<int>safeNodes;
+        for(int i=0; i<V; i++){
+            if(safe[i]){
+                safeNodes.push_back(i);
+            }
+        }
         return safeNodes;
     }
 };
