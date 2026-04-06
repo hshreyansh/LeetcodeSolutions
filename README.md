@@ -64,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0127-word-ladder/) | Hard |
+| [0743-network-delay-time](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0743-network-delay-time/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -92,13 +93,23 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0743-network-delay-time/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0743-network-delay-time/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0743-network-delay-time/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
