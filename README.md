@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0493-reverse-pairs](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0493-reverse-pairs/) | Hard |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -13,6 +14,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## String
@@ -66,6 +68,7 @@
 | [0127-word-ladder](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0127-word-ladder/) | Hard |
 | [0743-network-delay-time](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0743-network-delay-time/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
