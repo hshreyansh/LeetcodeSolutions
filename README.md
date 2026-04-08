@@ -7,6 +7,7 @@
 | [0152-maximum-product-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0493-reverse-pairs](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
@@ -65,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0127-word-ladder/) | Hard |
+| [0974-subarray-sums-divisible-by-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,4 +128,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
