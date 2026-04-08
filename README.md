@@ -8,6 +8,7 @@
 | [0493-reverse-pairs](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0997-find-the-town-judge](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
@@ -67,6 +68,7 @@
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0127-word-ladder/) | Hard |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0997-find-the-town-judge](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0997-find-the-town-judge/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +110,7 @@
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0743-network-delay-time/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0997-find-the-town-judge](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0997-find-the-town-judge/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
