@@ -11,6 +11,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0997-find-the-town-judge](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -72,6 +73,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0997-find-the-town-judge](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0997-find-the-town-judge/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +100,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -139,4 +142,9 @@
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 <!---LeetCode Topics End-->
