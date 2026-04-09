@@ -1,34 +1,18 @@
 class Solution {
 public:
     int numberOfSubarrays(vector<int>& nums, int k) {
-        int n = nums.size();
+        int currSum = 0, subarrays = 0;
+        unordered_map<int, int> prefixSum;
+        prefixSum[currSum] = 1;
 
-        int oddCount = 0;
-        int count    = 0;
-        int result   = 0;
-
-        int i = 0;
-        int j = 0;
-        //Best example to understand the use of count variable - {2, 1, 2, 1}, output : 6
-        while(j < n) {
-
-            if(nums[j] % 2 != 0) { //ODD
-                oddCount++;
-                count = 0; //We need to reset this to avoid over counting. Example : [1,1,2,1,1], k = 3
+        for (int i = 0; i < nums.size(); i++) {
+            currSum += nums[i] % 2;
+            if (prefixSum.find(currSum - k) != prefixSum.end()) {
+                subarrays = subarrays + prefixSum[currSum - k];
             }
-
-            while(oddCount == k) {
-                count++;
-
-                if(i < n && nums[i] % 2 == 1) { //ODD
-                    oddCount--;
-                }
-                i++;
-            }
-            result += count;
-            j++;
+            prefixSum[currSum]++;
         }
 
-        return result;
+        return subarrays;
     }
 };
