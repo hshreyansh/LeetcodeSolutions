@@ -17,6 +17,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0997-find-the-town-judge](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
