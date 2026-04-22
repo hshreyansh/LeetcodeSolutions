@@ -16,6 +16,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -32,6 +33,7 @@
 | [0127-word-ladder](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0127-word-ladder/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,4 +158,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 <!---LeetCode Topics End-->
