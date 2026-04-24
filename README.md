@@ -34,6 +34,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +163,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 <!---LeetCode Topics End-->
