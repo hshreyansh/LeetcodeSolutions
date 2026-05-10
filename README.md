@@ -19,6 +19,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3861-minimum-capacity-box/) | Easy |
@@ -81,6 +82,7 @@
 | [0788-rotated-digits](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0788-rotated-digits/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
