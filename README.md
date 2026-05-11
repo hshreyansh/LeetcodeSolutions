@@ -18,6 +18,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -127,6 +128,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
