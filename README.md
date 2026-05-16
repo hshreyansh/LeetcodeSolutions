@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0493-reverse-pairs](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -51,6 +52,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0493-reverse-pairs](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0493-reverse-pairs/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
