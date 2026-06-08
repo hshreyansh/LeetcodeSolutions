@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -192,6 +193,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0031-next-permutation/) | Medium |
 | [0567-permutation-in-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0567-permutation-in-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
