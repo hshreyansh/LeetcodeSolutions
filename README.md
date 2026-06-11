@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -122,6 +123,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -194,6 +196,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0031-next-permutation/) | Medium |
+| [0075-sort-colors](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0567-permutation-in-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0567-permutation-in-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
