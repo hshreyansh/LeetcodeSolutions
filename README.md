@@ -135,6 +135,7 @@
 | [0048-rotate-image](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0048-rotate-image/) | Medium |
 | [0788-rotated-digits](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0788-rotated-digits/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
