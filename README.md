@@ -20,6 +20,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -118,12 +119,14 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -203,4 +206,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0796-rotate-string/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
