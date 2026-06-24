@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0493-reverse-pairs](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -52,6 +53,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0476-number-complement](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
@@ -60,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0493-reverse-pairs](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0493-reverse-pairs/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -201,6 +204,7 @@
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0567-permutation-in-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0567-permutation-in-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
