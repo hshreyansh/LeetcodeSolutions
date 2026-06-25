@@ -45,6 +45,7 @@
 | [0127-word-ladder](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0127-word-ladder/) | Hard |
 | [0567-permutation-in-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0796-rotate-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -105,6 +106,7 @@
 | [0567-permutation-in-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0997-find-the-town-judge](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0997-find-the-town-judge/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -198,6 +200,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
