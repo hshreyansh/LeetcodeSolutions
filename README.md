@@ -51,6 +51,7 @@
 | [0567-permutation-in-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
@@ -115,6 +116,7 @@
 | [0997-find-the-town-judge](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -210,6 +212,7 @@
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
