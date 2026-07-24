@@ -48,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0127-word-ladder/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0567-permutation-in-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -134,6 +135,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
@@ -245,4 +247,12 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 <!---LeetCode Topics End-->
