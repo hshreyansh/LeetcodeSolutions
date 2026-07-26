@@ -15,6 +15,7 @@
 | [0287-find-the-duplicate-number](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0493-reverse-pairs](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0997-find-the-town-judge](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0997-find-the-town-judge/) | Easy |
@@ -143,6 +144,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
@@ -157,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0048-rotate-image/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0788-rotated-digits/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
