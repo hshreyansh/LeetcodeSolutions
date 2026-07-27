@@ -23,6 +23,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1260-shift-2d-grid](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -146,6 +147,7 @@
 | [0075-sort-colors](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -195,6 +197,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0743-network-delay-time/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
