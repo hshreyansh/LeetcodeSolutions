@@ -16,6 +16,7 @@
 | [0493-reverse-pairs](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0997-find-the-town-judge](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0997-find-the-town-judge/) | Easy |
@@ -106,6 +107,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0788-rotated-digits](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -165,6 +167,7 @@
 | [0048-rotate-image](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0048-rotate-image/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0877-stone-game/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -266,4 +269,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
