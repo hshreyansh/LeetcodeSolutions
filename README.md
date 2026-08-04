@@ -35,6 +35,7 @@
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3731-find-missing-elements](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -125,6 +126,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3731-find-missing-elements](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -155,6 +157,7 @@
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
