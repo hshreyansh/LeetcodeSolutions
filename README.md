@@ -35,6 +35,7 @@
 | [2708-maximum-strength-of-a-group](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -127,6 +128,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -236,6 +238,7 @@
 | [0567-permutation-in-string](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hshreyansh/LeetcodeSolutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
